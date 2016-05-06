@@ -1,0 +1,11 @@
+# Site settings
+title: Joshua Adkins
+email: adkinsjd@umich.edu
+description: "Personal website for Joshua Adkins, research assistant at the University of Michigan's ubiquitous computing research lab, Lab11"
+baseurl: ""
+url: "joshuaadkins.com"
+github_username:  adkinsjd
+
+# Build settings
+markdown: kramdown
+permalink: pretty
