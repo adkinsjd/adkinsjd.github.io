@@ -9,5 +9,3 @@ github_username:  adkinsjd
 # Build settings
 markdown: kramdown
 
-kramdown:
-	input: GFM
