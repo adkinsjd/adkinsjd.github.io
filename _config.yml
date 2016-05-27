@@ -8,4 +8,6 @@ github_username:  adkinsjd
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+
+kramdown:
+	input: GFM
