@@ -9,3 +9,5 @@ github_username:  adkinsjd
 # Build settings
 markdown: kramdown
 
+gems: [jekyll-sitemap]
+
