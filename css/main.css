@@ -6,7 +6,7 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { height: 100%;}
 
 html { 
 	display: table;
@@ -39,8 +39,9 @@ a:visited { color: #205caa; }
 .wrap:after { clear: both; }
 .wrap {
   max-width: 800px;
+  margin-left: 50px;
+  margin-right: 50px;
   padding: 0 0px;
-  margin: 0 auto;
   zoom: 1;
 }
 
@@ -109,10 +110,12 @@ span.nobr{
 
 .site-header {
   position: relative;
-  width: 800px;
+  max-width: 800px;
   height: 200px;
   margin-top: 20px;
   margin-bottom: 1px;
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: white;
 }
 
@@ -142,10 +145,23 @@ span.nobr{
   letter-spacing: -.5px;
 }
 
+#gc-slideshow{
+	padding-top: 20px;
+}
+
+#gc-slideshow > div{
+}
+
+#gc-slideshow > div img{
+	box-shadow: 0 0 10px rgba(0,0,0,0.2);
+	width: 320px;
+	position: absolute;
+	border-radius: 20px;
+}
+
 /* Site footer */
 
 .site-footer {
-  border-top: 1px solid #e8e8e8;
   padding: 30px 0;
 }
 
@@ -206,7 +222,7 @@ span.nobr{
 
 .page-content {
   padding: 30px 0;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 
@@ -297,7 +313,7 @@ span.nobr{
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: #eef;
+  background-color: #ffffff;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -320,14 +336,14 @@ span.nobr{
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
-  background-color: #333;
+  background-color: #ffffff;
   color: #FFF;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
 }
 
-.post pre.terminal code { background-color: #333; }
+.post pre.terminal code { background-color: #ffffff; }
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
@@ -431,7 +447,7 @@ span.nobr{
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    border: 1px solid #e8e8e8;
+    border: 1px solid #ffffff;
   }
 
   .site-nav .menu-icon {
