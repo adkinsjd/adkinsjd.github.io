@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-My website is still under construction. Sorry for any errors or missing information.\\
-\\
 Hi, I'm Josh Adkins. I currently work as a Research Assistant with 
 Prabal Dutta and [Lab11](http://lab11.eecs.umich.edu) at the 
 University of Michigan. I just graduated with an undergraduate
