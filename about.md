@@ -1,6 +1,6 @@
 ---
 layout: default
-title: !Work
+title: Personal
 ---
 
 I really like teaching and doing educational outreach, especially k-12. I have experience 
