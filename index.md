@@ -30,8 +30,8 @@ Cinamin
 have all used BLE, and I have also created a 0.5 in<sup>2</sup>, drop-in, 
 BLE module called 
 [Nucleum](http://github.com/lab11/nucleum) that makes it easy to integrate
-BLE into new designs.
-
+BLE into new designs.\\
+\\
 Currently I am working on a project to build and deploy energy-harvesting, 
 city-scale sensors that will be attached to signposts. This allows for 
 city-scale sensing and control without the modification or addition of
