@@ -14,8 +14,7 @@ embedded systems. I have looked into securing mobile interactions between people
 and embedded systems in the [Monoxalyze](http://github.com/lab11/monoxalyze) project, 
 which works with a smartphone 
 to provide a keychain-sized smoking cessation compliance mechanism; a paper
-on the topic
-will be appearing at [ACM SenSys 2016](http://sensys.acm.org/2016/). I have
+on the topic appeared at [ACM SenSys 2016](http://sensys.acm.org/2016/). I have
 also worked on lowering the bar to casually interacting devices by collaborating
 on [Summon](http://github.com/lab11/summon), 
 a web browser for physical devices, working to create
