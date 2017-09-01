@@ -38,5 +38,4 @@ a miniature, solar powered Bluetooth beacon called [Cinamin](http://github.com/l
 and proposing
 [Ving](https://web.eecs.umich.edu/~prabal/pubs/papers/adkins15ving.pdf), 
 an idea to discover and communicate with devices sitting on the same surface
-using the vibratory motors commonly found in mobile phones.\\
-\\
+using the vibratory motors commonly found in mobile phones.
