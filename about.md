@@ -10,11 +10,11 @@ If you want help with an outreach project let me know!\\
 Outside of the lab I am *really* into coffee. I currently have 9 manual
 brewing systems, and my newest endeavor is perfecting my brewing water
 by creating the right balance of magnesium, calcium, and carbonate ions (i.e. 
-adding salt and baking soda to distilled water).\\
+adding salt and baking soda to distilled water). I am also attempting to
+branch into roasting!\\
 \\
-I also really enjoy the outdoors. I just completed a 3 day, 49 mile rim-to-rim-to-rim
-backpacking trip at the Grand Canyon with my dad.
-
+I really enjoy the outdoors. Here are some pictures of hiking I've
+done over the past few years:
 
 <div id="gc-slideshow">
 	<div>
@@ -58,5 +58,14 @@ backpacking trip at the Grand Canyon with my dad.
 	</div>
 	<div>
 		<img src="img/GC/13.jpg">
+	</div>
+	<div>
+		<img src="img/GC/14.jpg">
+	</div>
+	<div>
+		<img src="img/GC/15.jpg">
+	</div>
+	<div>
+		<img src="img/GC/16.jpg">
 	</div>
 </div>
