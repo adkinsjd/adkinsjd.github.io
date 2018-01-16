@@ -21,8 +21,9 @@ Two of my active research projects that fit within this problem space are the
 and a new generation of indoor sensor nodes.
 The Signpost is a modular, energy-harvesting platform that attempts to 
 lower the bar to city-scale sensing by removing
-the need for wired power and networking. We are currently working on a 
-deployment on UC Berkeley's campus! The new indoor sensor nodes are also
+the need for wired power and networking. It will be presented at IPSN 2018, 
+and we are currently 
+deploying the system on UC Berkeley's campus! The new indoor sensor nodes are also
 energy harvesting and are being designed with the newest technology to achieve longer
 lifetimes. They will include services such as localization and self energy
 monitoring that will make them easier to densely deploy and program.\\
