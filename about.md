@@ -15,8 +15,8 @@ you should check out the articles and blogs published by
 [Maxwell Colonna-Dashwood](https://colonnacoffee.com/pages/labs). They are usually
 more evidence-based than others in the industry.\\
 \\
-I also  enjoy backpacking and the outdoors. Here are some pictures of hiking I've
-done over the past few years:
+I also  enjoy backpacking and the outdoors. Here are some pictures I've taken while hiking 
+over the past few years:
 
 <div id="gc-slideshow">
 	<div>
