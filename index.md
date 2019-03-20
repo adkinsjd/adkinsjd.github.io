@@ -40,9 +40,13 @@ which works with a smartphone
 to provide a keychain-sized smoking cessation compliance mechanism; a paper
 on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).\\
 \\
-### Updates ####
+### Updates
 * March 2019: won departmental outstanding GSI award for work on EECS 149/249 in Fall 2018
+
 * February 2019: Completed deployment of over 200 additional PowerWatch sensors in Accra
+
 * January 2019: Capacity over Capacitance for Reliable Energy Harvesting Sensors accepted to IPSN '19
+
 * December 2018: Freeloader's Guide Through the Google Galaxy accepted to HotMobile '19
+
 * September 2018: Started teaching and redesigning labs fors EECS 149/249 - Intro to Embedded Systems
