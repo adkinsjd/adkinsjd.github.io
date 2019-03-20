@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I'm Josh Adkins. I am a second year PhD student in 
+Hi, I'm Josh Adkins. I am a third year PhD student in 
 Electrical Engineering and Computer Science working with 
 Prabal Dutta and [Lab11](http://lab11.eecs.berkeley.edu) at the 
 University of California, Berkeley.
@@ -16,29 +16,33 @@ networks, and 2) Programming systems that will allow us to easily specify progra
 for an entire set of these sensors and actuators while still working within
 their power and memory constraints.\\
 \\
-Two of my active research projects that fit within this problem space are the 
+I am most actively working on the design, construction, deployment, and management
+of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of the [GridWatch](grid.watch) project.
+These sensors will help us to both independently evaluate the impact of grid 
+improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
+to quantify the socioeconomic impacts of (un)reliability. We currently
+have a deployment of nearly 400 sensors and many phone applications running in Accra.\\
+\\
+Other recent projects include the
 [Signpost platform for city-scale sensing](github.com/lab11/signpost), 
 and a new generation of indoor sensor nodes.
 Signpost is a modular, energy-harvesting platform that attempts to 
 lower the bar to city-scale sensing by removing
 the need for wired power and networking. 
-[The paper](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf) will be presented at IPSN 2018, 
-and we are currently 
-deploying the system on UC Berkeley's campus! The new indoor sensor nodes are also
+[The paper](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf) was presented at IPSN 2018.
+[The new indoor sensor nodes](github.com/lab11/permamote) are
 energy harvesting, include a primary cell battery to increase reliability, 
 and are being designed with the newest technology to achieve longer
-lifetimes. They will include services such as localization and self energy
-monitoring that will make them easier to densely deploy and program.\\
+lifetimes. I collaborated with Neal Jackson on [a paper about their design](https://lab11.eecs.berkeley.edu/content/pubs/jackson19capacity), which he will present at IPSN 2019.\\
 \\
-In the past I have worked on [Monoxalyze](github.com/lab11/monoxalyze), 
+In the past I worked on [Monoxalyze](github.com/lab11/monoxalyze), 
 which works with a smartphone 
 to provide a keychain-sized smoking cessation compliance mechanism; a paper
-on the topic appeared at [ACM SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf). I have
-also worked on lowering the bar to casually interacting devices by collaborating
-on [Summon](http://github.com/lab11/summon), 
-a web browser for physical devices, designed a
-a miniature, solar powered Bluetooth beacon called [Cinamin](http://github.com/lab11/cinamin-beacon), 
-and proposed
-[Ving](https://lab11.eecs.berkeley.edu/content/pubs/adkins15ving.pdf), 
-an idea to discover and communicate with devices sitting on the same surface
-using the vibratory motors commonly found in mobile phones.
+on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).\\
+\\
+### Updates ####
+* March 2019: won departmental outstanding GSI award for work on EECS 149/249 in Fall 2018
+* February 2019: Completed deployment of over 200 additional PowerWatch sensors in Accra
+* January 2019: Capacity over Capacitance for Reliable Energy Harvesting Sensors accepted to IPSN '19
+* December 2018: Freeloader's Guide Through the Google Galaxy accepted to HotMobile '19
+* September 2018: Started teaching and redesigning labs fors EECS 149/249 - Intro to Embedded Systems
