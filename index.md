@@ -38,8 +38,8 @@ lifetimes. I collaborated with Neal Jackson on [a paper about their design](http
 In the past I worked on [Monoxalyze](github.com/lab11/monoxalyze), 
 which works with a smartphone 
 to provide a keychain-sized smoking cessation compliance mechanism; a paper
-on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).\\
-
+on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).   
+   
 ### Updates
 March 2019: Won departmental outstanding GSI award for work on EECS 149/249 in Fall 2018
 
