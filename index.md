@@ -12,9 +12,9 @@ I am currently on an [NSF GRFP Fellowship](https://www.nsfgrfp.org).\\
 My research focuses on creating, deploying, programming, and interacting with 
 ubiquitous sensor systems. I'm currently most interested in two problems:
 1) How can we enable the easy deployment and management of dense sensor
-networks, and 2) Programming systems that will allow us to easily specify programs
+networks, and 2) programming systems that will allow us to easily specify programs
 for an entire set of these sensors and actuators while still working within
-their power and memory constraints.\\
+their energy, power, memory, and computational constraints.\\
 \\
 I am most actively working on the design, construction, deployment, and management
 of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of the [GridWatch](grid.watch) project.
