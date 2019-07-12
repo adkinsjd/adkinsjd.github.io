@@ -42,7 +42,7 @@ to provide a keychain-sized smoking cessation compliance mechanism; a paper
 on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br/>
 <br/>   
 ### Updates
-July 2019: _Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
+July 2019: _Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
 
 May 2019: _Insights from MEasuring Grid Reliability in Accra, Ghana_ accepted to COMPASS '19 
 
