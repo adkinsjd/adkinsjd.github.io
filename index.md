@@ -21,7 +21,8 @@ of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana 
 These sensors will help us to both independently evaluate the impact of grid 
 improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
 to quantify the socioeconomic impacts of (un)reliability. We currently
-have a deployment of nearly 400 sensors and many phone applications running in Accra.\\
+have a deployment of nearly 400 sensors and many phone applications running in Accra. [A paper about insights from the 
+deployment](https://joshuaadkins.com/publications/compass19.pdf) was presented at COMPASS 2019.\\
 \\
 Other recent projects include the
 [Signpost platform for city-scale sensing](github.com/lab11/signpost), 
@@ -41,6 +42,10 @@ to provide a keychain-sized smoking cessation compliance mechanism; a paper
 on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br/>
 <br/>   
 ### Updates
+July 2019: _Challenge: Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
+
+May 2019: _Insights from MEasuring Grid Reliability in Accra, Ghana_ accepted to COMPASS '19 
+
 March 2019: Won departmental outstanding GSI award for work on EECS 149/249 in Fall 2018
 
 February 2019: Completed deployment of over 200 additional PowerWatch sensors in Accra
