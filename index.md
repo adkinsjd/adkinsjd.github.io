@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-Hi, I'm Josh Adkins. I am a third year PhD student in 
+Hi, I'm Josh Adkins. I am a fourth year PhD student in 
 Electrical Engineering and Computer Science working with 
 Prabal Dutta and [Lab11](http://lab11.eecs.berkeley.edu) at the 
 University of California, Berkeley.
-I am currently on an [NSF GRFP Fellowship](https://www.nsfgrfp.org).\\
+I am an [NSF GRFP Fellow](https://www.nsfgrfp.org).\\
 \\
 My research focuses on creating, deploying, programming, and interacting with 
 ubiquitous sensor systems. I'm currently most interested in two problems:
@@ -42,6 +42,8 @@ to provide a keychain-sized smoking cessation compliance mechanism; a paper
 on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br/>
 <br/>   
 ### Updates
+February 2020: _Browsing the Web of Connectable Things_ accepted to EWSN '20
+
 July 2019: _Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
 
 May 2019: _Insights from MEasuring Grid Reliability in Accra, Ghana_ accepted to COMPASS '19 
