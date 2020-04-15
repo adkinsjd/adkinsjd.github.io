@@ -46,7 +46,7 @@ February 2020: _Browsing the Web of Connectable Things_ accepted to EWSN '20
 
 July 2019: _Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
 
-May 2019: _Insights from MEasuring Grid Reliability in Accra, Ghana_ accepted to COMPASS '19 
+May 2019: _Insights from Measuring Grid Reliability in Accra, Ghana_ accepted to COMPASS '19 
 
 March 2019: Won departmental outstanding GSI award for work on EECS 149/249 in Fall 2018
 
