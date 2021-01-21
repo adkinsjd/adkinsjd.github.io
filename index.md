@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I'm Josh Adkins. I am a fourth year PhD student in 
+Hi, I'm Josh Adkins. I am a fifth year PhD student in 
 Electrical Engineering and Computer Science working with 
 Prabal Dutta and [Lab11](http://lab11.eecs.berkeley.edu) at the 
 University of California, Berkeley.
@@ -17,12 +17,19 @@ for an entire set of these sensors and actuators while still working within
 their energy, power, memory, and computational constraints.\\
 \\
 I am most actively working on the design, construction, deployment, and management
-of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of the [GridWatch](grid.watch) project.
+of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](grid.watch) and [nLine](nline.io).
 These sensors will help us to both independently evaluate the impact of grid 
 improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
 to quantify the socioeconomic impacts of (un)reliability. We currently
-have a deployment of nearly 400 sensors and many phone applications running in Accra. [A paper about insights from the 
+have a deployment of nearly 700 sensors running in Accra. [A paper about insights from the 
 deployment](https://joshuaadkins.com/publications/compass19.pdf) was presented at COMPASS 2019.\\
+\\
+I am also working on a resource manager for the servers, gateways, and resource constrained
+sensors that constitute the "edge". By modifying  the communications protocols and
+execution environments of a traditional resource manager to operate under the resource
+constraints of low-power sensors, we hope to enable multiple users to program
+sets of sensors through high-level, and potentially interactive programming environments.
+Check out the in-progress [code base for this project](https://github.com/conix-center/edge-rm).\\
 \\
 Other recent projects include the
 [Signpost platform for city-scale sensing](github.com/lab11/signpost), 
@@ -42,6 +49,10 @@ to provide a keychain-sized smoking cessation compliance mechanism; a paper
 on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br/>
 <br/>   
 ### Updates
+January 2021: _Utility-Independent Measurements of Electricity Reliability in Accra, Ghana_ accepted to IPSN '21
+
+October 2020: Work on Edge Resource Management won best poster at CONIX 2020 review
+
 February 2020: _Browsing the Web of Connectable Things_ accepted to EWSN '20
 
 July 2019: _Unlicensed LPWANs Are Not Yet the Path to Ubiquitous Connectivity_ accepted to MobiCom '19
