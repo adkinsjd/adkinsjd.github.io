@@ -31,27 +31,23 @@ constraints of low-power sensors, we hope to enable multiple users to program
 sets of sensors through high-level, and potentially interactive programming environments.
 Check out the in-progress [code base for this project](https://github.com/conix-center/edge-rm).\\
 \\
-Other recent projects include the
-[Signpost platform for city-scale sensing](github.com/lab11/signpost), 
-and a new generation of indoor sensor nodes.
-Signpost is a modular, energy-harvesting platform that attempts to 
-lower the bar to city-scale sensing by removing
-the need for wired power and networking. 
-[The paper](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf) was presented at IPSN 2018.
-[The new indoor sensor nodes](github.com/lab11/permamote) are
-energy harvesting, include a primary cell battery to increase reliability, 
-and are being designed with the newest technology to achieve longer
-lifetimes. I collaborated with Neal Jackson on [a paper about their design](https://lab11.eecs.berkeley.edu/content/pubs/jackson19capacity), which he will present at IPSN 2019.\\
-\\
-In the past I worked on [Monoxalyze](github.com/lab11/monoxalyze), 
-which works with a smartphone 
-to provide a keychain-sized smoking cessation compliance mechanism; a paper
-on the topic appeared at [SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br/>
-<br/>   
+In the past I have worked on: 
+
+&#9;&#9;<b>-</b> [A new generation of indoor, harvesting sensor nodes](github.com/lab11/permamote)
+that uses both primary and secondary cells to increase energy reliability, which Neal Jackson 
+[presented at IPSN 2019](https://lab11.eecs.berkeley.edu/content/pubs/jackson19capacity).
+
+&#9;&#9;<b>-</b> The [Signpost platform for city-scale sensing](github.com/lab11/signpost), a modular, energy-harvesting 
+platform for lowering the bar to city-scale sensing [presented at IPSN 2018](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf).
+
+&#9;&#9;<b>-</b> [Monoxalyze](github.com/lab11/monoxalyze), which works with a smartphone 
+to provide a keychain-sized smoking cessation compliance mechanism and was 
+[presented at SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br>
+<br>   
 ### Updates
 January 2021: _Utility-Independent Measurements of Electricity Reliability in Accra, Ghana_ accepted to IPSN '21
 
-October 2020: Work on Edge Resource Management won best poster at CONIX 2020 review
+October 2020: Work on Edge Resource Management won best poster at CONIX 2020 annual review
 
 February 2020: _Browsing the Web of Connectable Things_ accepted to EWSN '20
 
