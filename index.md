@@ -47,6 +47,8 @@ to provide a keychain-sized smoking cessation compliance mechanism and was
 ### Updates
 January 2021: _Utility-Independent Measurements of Electricity Reliability in Accra, Ghana_ accepted to IPSN '21
 
+November 2020: A Gridwatch chapter will be included in Springer's _Introduction to Development Engineering_.
+
 October 2020: Work on Edge Resource Management won best poster at CONIX 2020 annual review
 
 February 2020: _Browsing the Web of Connectable Things_ accepted to EWSN '20
