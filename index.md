@@ -17,7 +17,7 @@ for an entire set of these sensors and actuators while still working within
 their energy, power, memory, and computational constraints.\\
 \\
 I am most actively working on the design, construction, deployment, and management
-of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](grid.watch) and [nLine](nline.io).
+of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](https://grid.watch) and [nLine](https://nline.io).
 These sensors will help us to both independently evaluate the impact of grid 
 improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
 to quantify the socioeconomic impacts of (un)reliability. We currently
