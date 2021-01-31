@@ -17,7 +17,7 @@ for an entire set of these sensors and actuators while still working within
 their energy, power, memory, and computational constraints.\\
 \\
 I am most actively working on the design, construction, deployment, and management
-of [power grid reliability sensors](github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](https://grid.watch) and [nLine](https://nline.io).
+of [power grid reliability sensors](https://github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](https://grid.watch) and [nLine](https://nline.io).
 These sensors will help us to both independently evaluate the impact of grid 
 improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
 to quantify the socioeconomic impacts of (un)reliability. We currently
@@ -33,14 +33,14 @@ Check out the in-progress [code base for this project](https://github.com/conix-
 \\
 In the past I have worked on: 
 
-&#9;&#9;<b>-</b> [A new generation of indoor, harvesting sensor nodes](github.com/lab11/permamote)
+&#9;&#9;<b>-</b> [A new generation of indoor, harvesting sensor nodes](https://github.com/lab11/permamote)
 that uses both primary and secondary cells to increase energy reliability, which Neal Jackson 
 [presented at IPSN 2019](https://lab11.eecs.berkeley.edu/content/pubs/jackson19capacity).
 
-&#9;&#9;<b>-</b> The [Signpost platform for city-scale sensing](github.com/lab11/signpost), a modular, energy-harvesting 
+&#9;&#9;<b>-</b> The [Signpost platform for city-scale sensing](https://github.com/lab11/signpost), a modular, energy-harvesting 
 platform for lowering the bar to city-scale sensing [presented at IPSN 2018](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf).
 
-&#9;&#9;<b>-</b> [Monoxalyze](github.com/lab11/monoxalyze), which works with a smartphone 
+&#9;&#9;<b>-</b> [Monoxalyze](https://github.com/lab11/monoxalyze), which works with a smartphone 
 to provide a keychain-sized smoking cessation compliance mechanism and was 
 [presented at SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br>
 <br>   
