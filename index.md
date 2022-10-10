@@ -3,51 +3,42 @@ layout: default
 title: Home
 ---
 
-Hi, I'm Josh Adkins. I am a fifth year PhD student in 
-Electrical Engineering and Computer Science working with 
-Prabal Dutta and [Lab11](http://lab11.eecs.berkeley.edu) at the 
-University of California, Berkeley.
-I am an [NSF GRFP Fellow](https://www.nsfgrfp.org).\\
+Hi, I'm Josh Adkins. I am a sixth year PhD student in
+Electrical Engineering and Computer Science at the
+University of California, Berkeley and the CTO and co-founder of <i>n</i>Line, an infrastructure
+reliability monitoring company.\\
 \\
-My research focuses on creating, deploying, programming, and interacting with 
+At Berkeley, my research focuses on creating, deploying, programming, and interacting with
 ubiquitous sensor systems. I'm currently most interested in two problems:
 1) How can we enable the easy deployment and management of dense sensor
 networks, and 2) programming systems that will allow us to easily specify programs
 for an entire set of these sensors and actuators while still working within
-their energy, power, memory, and computational constraints.\\
+their energy, power, memory, and computational constraints. I hope these efforts
+help scientists and researchers more easily collect data for and propose solutions
+to the world's most pressing problems.\\
 \\
-I am most actively working on the design, construction, deployment, and management
-of [power grid reliability sensors](https://github.com/lab11/plugwatch) in Accra, Ghana as part of [GridWatch](https://grid.watch) and [nLine](https://nline.io).
-These sensors will help us to both independently evaluate the impact of grid 
-improvements on reliability, and, in collaboration with a team of UC Berkeley economists, 
-to quantify the socioeconomic impacts of (un)reliability. We currently
-have a deployment of nearly 700 sensors running in Accra. [A paper about insights from the 
-deployment](https://joshuaadkins.com/publications/compass19.pdf) was presented at COMPASS 2019.\\
+At <i>n</i>Line we work to collect data about the reliability of critical infrastructure starting
+with the power grid. This data can then be used to evaluate the existing equity and reliability
+of infrastructure, assist governments in creating policy to increase infrastructure reliability, help
+utilities better operate and maintain infrastructure, or evaluate and
+improve investments into infrastructure. I hope that some day it can also support the stories of how 
+unreliable infrastructure impacts peoples' lives. The work started as a collaboration with UC Berkeley
+economists to evaluate the efficacy of investments made during the Ghana Power Compact and has
+now grown to support projects in seven countries. <i>n</i>Line is intentionally not
+backed by venture-capital so that we can focus on our mission without external pressure to grow
+or increase net profits.\\
 \\
-I am also working on a resource manager for the servers, gateways, and resource constrained
-sensors that constitute the "edge". By modifying  the communications protocols and
-execution environments of a traditional resource manager to operate under the resource
-constraints of low-power sensors, we hope to enable multiple users to program
-sets of sensors through high-level, and potentially interactive programming environments.
-Check out the in-progress [code base for this project](https://github.com/conix-center/edge-rm).\\
-\\
-In the past I have worked on: 
-
-&#9;&#9;<b>-</b> [A new generation of indoor, harvesting sensor nodes](https://github.com/lab11/permamote)
-that uses both primary and secondary cells to increase energy reliability, which Neal Jackson 
-[presented at IPSN 2019](https://lab11.eecs.berkeley.edu/content/pubs/jackson19capacity).
-
-&#9;&#9;<b>-</b> The [Signpost platform for city-scale sensing](https://github.com/lab11/signpost), a modular, energy-harvesting 
-platform for lowering the bar to city-scale sensing [presented at IPSN 2018](https://lab11.eecs.berkeley.edu/content/pubs/adkins18signpost.pdf).
-
-&#9;&#9;<b>-</b> [Monoxalyze](https://github.com/lab11/monoxalyze), which works with a smartphone 
-to provide a keychain-sized smoking cessation compliance mechanism and was 
-[presented at SenSys 2016](https://lab11.eecs.berkeley.edu/content/pubs/adkins16monoxalyze.pdf).<br>
-<br>   
+I am currently living in Oakland, California. During my spare time I play bass,
+hike and bike in the California mountains, and think about the intersection
+of technology, socioeconomic systems, and academia.
+<br>
+<br>
 ### Updates
+August 2022: Springer's _Introduction to Development Engineering_ Published.
+
 January 2021: _Utility-Independent Measurements of Electricity Reliability in Accra, Ghana_ accepted to IPSN '21
 
-November 2020: A Gridwatch chapter will be included in Springer's _Introduction to Development Engineering_.
+November 2020: A GridWatch chapter will be included in Springer's _Introduction to Development Engineering_.
 
 October 2020: Work on Edge Resource Management won best poster at CONIX 2020 annual review
 
